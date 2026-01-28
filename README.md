@@ -6,9 +6,7 @@
 MSBTE K-Scheme | Diploma Second Year | Daily Practice Repository
 </h3>
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA0eTJqZmRxZ3JmZ29mNjU4OXo5NXVpZ2V3NHV0bGJjNDk2dnM5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZlNzN2ZnlraDZvd3RjMGJzMHV5dGV0N3NreWVrYjV1ZHAydHFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 
 <hr>
 
