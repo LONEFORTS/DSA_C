@@ -8,8 +8,7 @@ MSBTE K-Scheme | Diploma Second Year | Daily Practice Repository
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="420" alt="DSA C"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
 
 <h2 align="center">DSA C – Data Structures Using C</h2>
 
