@@ -1,11 +1,6 @@
 <h1 align="center">
-🚀 Data Structures Using C (DSA_C)
+🚀 DSA_C 
 </h1>
-
-<h3 align="center">
-MSBTE K-Scheme | Diploma Second Year | Daily Practice Repository
-</h3>
-
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
@@ -14,20 +9,8 @@ MSBTE K-Scheme | Diploma Second Year | Daily Practice Repository
 
 <h2>📘 About This Repository</h2>
 
-<p>
-This repository contains <b>daily practice programs of Data Structures using C</b>,
-strictly designed as per <b>MSBTE K-Scheme syllabus</b> for
-<b>Course Code 313301</b>.
-</p>
 
-<ul>
-  <li>🔹 Language: <b>C</b></li>
-  <li>🔹 Level: <b>Diploma Second Year</b></li>
-  <li>🔹 Focus: <b>Logic, fundamentals & clean implementation</b></li>
-  <li>🔹 Uploads: <b>Daily / Unit-wise</b></li>
-</ul>
 
-<hr>
 
 <h2>🧠 Syllabus Covered (MSBTE – 313301)</h2>
 
@@ -114,8 +97,6 @@ DSA_C/
 
 <p>
 To build a <b>strong foundation in Data Structures</b>,
-maintain daily coding consistency,
-and prepare for <b>MSBTE exams, interviews, and advanced DSA</b>.
 </p>
 
 <p align="center">
