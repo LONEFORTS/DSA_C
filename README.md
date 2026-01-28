@@ -6,9 +6,12 @@
 MSBTE K-Scheme | Diploma Second Year | Daily Practice Repository
 </h3>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJjdjNjaDA2b2M5NjA2bHNhZ2R5Z2prbWRnYW42NmR0a3I4M3RrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="350"/>
 
-<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="420" alt="DSA C"/>
+</p>
+
+<h2 align="center">DSA C – Data Structures Using C</h2>
 
 <h2>📘 About This Repository</h2>
 
